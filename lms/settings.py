@@ -31,7 +31,6 @@ INSTALLED_APPS = [
     'learner',
     'batch',
     'notification',
-    'payment',
     'users',
     'rest_framework',
 ]
